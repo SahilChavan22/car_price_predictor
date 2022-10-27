@@ -1,2 +1,1 @@
-👇Deployed link:
-[a link](https://car-price-price.herokuapp.com)
+[Deployed-link link](https://car-price-price.herokuapp.com)
